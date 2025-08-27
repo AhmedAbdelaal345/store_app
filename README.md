@@ -1,16 +1,41 @@
-# store_app
+# 🏬 Store App
 
-A new Flutter project.
+## 📖 Overview
 
-## Getting Started
+The **Store App** is a mobile application developed as part of **Tharwat Samy's course**, focusing on **real-world API integration** to manage product data.  
+It demonstrates how to build a functional **e-commerce app with Flutter**, covering data fetching, display, and manipulation through backend APIs.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔗 **Real API Integration:** Fetch and display product information directly from a backend API.  
+- 📦 **Product Listing:** Browse a list of products with details retrieved dynamically.  
+- ✏️ **Product Updates:** Update product details, showcasing two-way communication with the API.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technical Details
+
+### 📌 Project Origin
+This app was built during **Tharwat Samy's Flutter course**, serving as a practical project to gain **hands-on experience with APIs**.  
+
+### 📦 Dependencies
+- `flutter` → Core SDK  
+- `http` → For making API requests  
+- `cupertino_icons` → iOS-style icons  
+
+---
+
+## 📸 Screenshots  
+
+| Screen Name     | Screenshot                                                                 | Description |
+|-----------------|-----------------------------------------------------------------------------|-------------|
+| **Home Page**   | ![Home Page](https://github.com/AhmedAbdelaal345/store_app/blob/main/lib/assets/screanshot/home_page.png?raw=true) | Displays all products fetched from the API. |
+| **Update Page** | ![Update Page](https://github.com/AhmedAbdelaal345/store_app/blob/main/lib/assets/screanshot/update_page.png?raw=true) | Allows users to update product information. |
+
+---
+
+## 📂 Repository  
+
+👉 [AhmedAbdelaal345/store_app](https://github.com/AhmedAbdelaal345/store_app)
